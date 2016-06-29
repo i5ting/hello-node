@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/i5ting/hello-node/issues"
   },
-  "homepage": "https://github.com/i5ting/hello-node#readme"
+  "homepage": "https://github.com/i5ting/hello-node#readme",
+  "dependencies": {
+    "debug": "^2.2.0"
+  },
+  "devDependencies": {
+    "nyc": "^6.6.1"
+  }
 }
