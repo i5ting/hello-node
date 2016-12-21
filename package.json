@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/i5ting/hello-node#readme",
   "dependencies": {
-    "debug": "^2.2.0"
+    "debug": "^2.5.0"
   },
   "devDependencies": {
     "nyc": "^7.0.0",
